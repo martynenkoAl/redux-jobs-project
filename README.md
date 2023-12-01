@@ -1,7 +1,21 @@
-# React Redux Job Listings Portfolio Project
+# Проект: Вакансии React, Redux Toolkit
+<img src="https://github.com/martynenkoAl/redux-jobs-project/assets/121212086/9fdaa3c0-d5c9-4442-b36f-5a067feb30c2" width="600" />
 
-It's a jobs site where you can filter out jobs based on selected categories.
+### Описание
+Проект-челлендж с frontendmentor. Необходимо реализовать сортировку вакансий по требуемым навыкам. Это учебный проект для тренировки Redux Toolkit.
 
-The used technologies: REACT, REDUX, JS, CSS, HTML
+### Демо   
+https://redux-jobs-project.vercel.app/
 
-Check it out: https://redux-jobs-project.vercel.app/
+### Установка и запуск проекта   
+1. git clone https://github.com/martynenkoAl/redux-jobs-project.git
+2. npm i
+3. npm run start
+
+### Технологии
+* React
+* Redux Toolkit
+* HTML5
+* CSS3
+* JavaScript
+
